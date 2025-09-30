@@ -68,10 +68,6 @@ Upon successful execution, the script outputs:
 - **Associated Token Account**: The address of the token account holding the minted tokens
 - **Transaction Signature**: The signature of the successful transaction
 
-## Security Notice
-
-⚠️ **Warning**: This project contains example code with hardcoded security keys. **DO NOT** use these keys in production or commit real secret keys to version control.
-
 ## Built With
 
 - [@solana/web3.js](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
